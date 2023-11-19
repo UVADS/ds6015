@@ -17,4 +17,3 @@ Possible Points Total: 15
 
 Notes:  
 - Make sure figures have axes, labels, and titles that are easy to read
-- For tips on effective presentations, see [here](https://github.com/UVADS/ds6011/blob/main/09_effective_presentations.ppt)
