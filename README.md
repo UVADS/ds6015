@@ -1,1 +1,1 @@
-# ds6015
+## DS 6015 - Data Science Capstone Project
