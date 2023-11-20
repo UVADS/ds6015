@@ -42,18 +42,59 @@ NOTE:
    - Students should coordinate with stakeholders to determine best method for delivery 
 
 
-**4. Six-page publishable paper**
+---
+
+**4. Publishable paper**
+   - Length: 6 pages maximum
    - The paper will summarize the research and findings
    - Submit the file on Canvas
-   - Include customary sections for research paper such as:
-     - Abstract
-     - Data
-     - Methods
-     - Conclusions
-     - Summary
-     - Next Steps
    - Publication is not a requirement but it is encouraged!
-   - See paper [rubric]() for grading breakdown
+   - See paper [rubric](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_paper.md) for grading breakdown
+   
+   **Authors**  
+   - Clients are cited as authors only if they make a direct contribution to the paper
+   - Capstone advisors are occasionally listed as authors. If so, they are listed last. Include them **only** if they made a direct contribution to the paper **and** if they wish to be included.
+
+   **Acknowledgments**  
+   - All contributors not listed authors should be mentioned in an acknowledgments note.  
+   - Clients may opt out of this. Be sure to ask your clients if they want to be acknowledged.  
+
+   **Citing Work**
+   - As a rule, all written or presented material must be your own unless you explicitly cite the work of others
+   - You may not copy or use the work of anyone else without proper citation
+   
+   **Voice and Style**
+   - Do not use the first person. Use either second person plural (“we”) of passive voice where appropriate.
+   - Use direct and simple language.
+
+   **Code**
+   - Name all important code packages used
+
+   **Figures and Tables**
+   - Use block diagrams to describe data flow (pipeline) when appropriate
+   - Show mathematical formulae for core methods
+   - Tables should be legible and within the page’s columns
+   - Figures should be labeled clearly, crisp, and readable
+
+   **Outline**  
+   The sections listed below are often included in capstone papers.  
+   In some cases, you may consolidate the sections.
+
+   - Introduction / Project Goal / Research Questions
+   - Literature Review / Background / Related Work
+   - Data Description
+   - Methodology
+   - Results
+   - Discussion
+   - Conclusion / Future Work / Recommendations
+   - Acknowledgements
+
+   **Example Papers**
+   - https://ieeexplore.ieee.org/document/7937744
+   - https://ieeexplore.ieee.org/document/7489317
+
+---
+
 
 
 **5. Slide deck for presentation**
