@@ -93,6 +93,9 @@ NOTE:
    - https://ieeexplore.ieee.org/document/7937744
    - https://ieeexplore.ieee.org/document/7489317
 
+   **Template**  
+   - This [template](https://github.com/UVADS/ds6015/blob/main/conference-template-letter.docx) may be helpful if you write the paper in *doc* format.
+
 ---
 
 
