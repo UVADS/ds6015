@@ -4,7 +4,8 @@ Possible Points Total: 15
 
 | Category   | Item    | Points |
 | -------- | ------- | :-------: |
-| Content | Included Project Purpose and Background | 2 |
+| Content | Included Project Purpose and Background | 1.5 |
+| Content | Included Sponsor Background | 0.5 |
 | Content | Included Data Discussion | 2 |
 | Content | Included Assumptions and Limitations | 2 |
 | Content | Included Methods Discussion | 2 |
