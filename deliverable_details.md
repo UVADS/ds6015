@@ -27,6 +27,7 @@ Details: The progress reports can build from the Project Plan. They should inclu
   - What resources are you using for compute? (e.g., Rivanna, sponsor resources)  
   - How are you storing data (e.g., RDS database on AWS, flat files on Rivanna)
 - Concerns and Blockers
+- Work plan with timeline
 
 NOTE:  
 *Concerns* are things to keep in mind but might not yet impede progress  
