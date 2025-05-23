@@ -9,10 +9,11 @@ Possible Points Total: 35
 | Content | Introduction / Project Goal / Research Questions | 3 |
 | Content | Literature Review / Background / Related Work | 3 |
 | Content | Data Description | 3 |
-| Content | Methodology | 4 |
+| Content | Methodology | 3 |
 | Content | Results | 3 |
-| Content | Discussion | 3 |
-| Content | Conclusion / Future Work / Recommendations | 3 |
+| Content | Discussion | 2 |
+| Content | Conclusion / Future Work / Recommendations | 2 |
+| Content | Student Contributions to Project (brief summary or list) | 3 |
 | Figures and Tables | Tables (if used) are legible and within the page’s columns | 2 |
 | Figures and Tables | Figures are labeled clearly, crisp, and readable | 2 |
 | References | References section for cited work is included | 2 |

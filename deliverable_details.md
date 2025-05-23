@@ -88,6 +88,7 @@ NOTE:
    - Results
    - Discussion
    - Conclusion / Future Work / Recommendations
+   - Student Contributions: brief summary of how each student contributed to the project
    - Acknowledgements
 
    **Example Papers**
