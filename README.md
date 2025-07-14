@@ -2,7 +2,7 @@
 
 ## DS 6015 - Data Science Capstone Project
 
-#### Last updated: July 13, 2025
+#### Last updated: July 14, 2025
 
 ---
 
@@ -11,6 +11,7 @@
 - [Participants](#participants)
 - [Supporting Materials](#supporting-materials)
 - [Collaboration](#collaboration)
+- [Grading](#grading)
 - [Deliverable Details](#deliverable-details)
 
 ## Participants
@@ -39,6 +40,13 @@
   Share meeting notes with the others.  
 - If you need to cancel a meeting, give at least 24hrs notice
 - Once availability is shared, get meetings scheduled quickly
+
+## Grading
+- Details in the Syllabus
+- Students on same project may receive different grade based on participation, effort
+- Faculty mentor does grading. Make your efforts clear to them:
+  - In status reports, list your contributions
+  - In final paper, list your contributions
 
 ## Deliverable Details
 
