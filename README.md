@@ -20,7 +20,7 @@
 ## Participants
 
 - **Students**: Form and execute plan, complete the hands-on work, and provide deliverables
-- **Faculty mentor(s)**: Assigned to each project, provides guidance (technical, project mgmt)
+- **Faculty mentor(s)**: Assigned to each project, provides guidance (technical, professional)
 - **Sponsor(s)**: Provides project, relevant data, guidance
 - **Capstone Director**: Runs program end to end, provides oversight, can help with issues elevated above faculty mentor 
 - **Impact Director**: Partners with the Capstone Director to support and cultivate sponsor relationships, measure and promote the program
