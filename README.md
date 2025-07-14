@@ -82,12 +82,12 @@
   - Students should coordinate with sponsors to determine best method for delivery 
   - Students to provide walkthrough, clear documentation so sponsor can use the work after project completion
 
-4 | Final Report. [[template]](https://github.com/UVADS/ds6015/blob/main/conference-template-letter.docx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_paper.md)
+4 | Final Report. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/conference-template-letter.docx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_paper.md)
   - Email to sponsor, mentor, Capstone Director
   - Length: 6 pages maximum, excluding figures/tables/Appendices
   - See template and rubric for details
 
-5 | Presentation. [[template]](https://github.com/UVADS/ds6015/blob/main/capstone_final_presentation_template.pptx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_presentation.md)
+5 | Presentation. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_final_presentation_template.pptx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_presentation.md)
   - Presented by all students at the Capstone Presentation event. Online MSDS event on Zoom, Residential MSDS event in person.
   - See template and rubric for details
 
