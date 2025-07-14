@@ -1,4 +1,4 @@
-![sds_logo](https://github.com/UVADS/ds6015/blob/main/sds_logo.png)
+![sds_logo](https://github.com/UVADS/ds6015/blob/main/img/sds_logo.png)
 
 ## DS 6015 - Data Science Capstone Project
 
@@ -27,10 +27,12 @@
 
 - This course repo contains materials to support capstone projects, including:
   - Information on best practices
-  - Templates for Progress Reports, Final Paper, Presentation. Be sure to use these.
+  - Templates for Agenda, Progress Reports, Final Paper, Presentation. Be sure to use these.
   - Rubrics
 
 ## Collaboration
+
+<img src="https://github.com/UVADS/ds6015/blob/main/img/meeting.png" alt="sds_logo" width="200"/>
 
 **Meetings**
 - Reach out to your faculty mentor and sponsor for project kickoff.  
