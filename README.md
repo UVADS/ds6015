@@ -105,7 +105,7 @@
 **Publication**
 - Not a requirement but encouraged! Check with your sponsor first.
 - Peer-reviewed journals may be preferable
-- A non-peer reviewed option is [arxiv](https://arxiv.org/). Students should be able to do this themselves.
+- A non-peer reviewed option is [arxiv](https://arxiv.org/). Students can create an account and submit the paper.
 
     **Authors**  
    - Sponsors should be listed as authors if they wish to be included.
