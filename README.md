@@ -73,7 +73,7 @@
 2 |  Progress Report II. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_progress_report2_template.docx)
 
    - Reports spaced evenly over the term (due dates set by faculty mentor)
-   - Email to sponsor, mentor, Program Director
+   - Email to sponsor, mentor, Capstone Director
 
 ---
 
@@ -83,7 +83,7 @@
   - Students to provide walkthrough, clear documentation so sponsor can use the work after project completion
 
 4 | Final Report. [[template]](https://github.com/UVADS/ds6015/blob/main/conference-template-letter.docx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_paper.md)
-  - Email to sponsor, mentor, Program Director
+  - Email to sponsor, mentor, Capstone Director
   - Length: 6 pages maximum, excluding figures/tables/Appendices
   - See template and rubric for details
 
