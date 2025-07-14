@@ -99,7 +99,7 @@
 ## Promoting your Work
 
 **General Guidelines**
-- Check with your sponsor on how work can be promoted as some projects may be sensitive
+- Check with your sponsor about how the work can be promoted, as some projects may be sensitive
 - Options can include listing on resume, posting on social media (e.g., LinkedIn), and publication
  
 **Publication**
