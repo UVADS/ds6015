@@ -31,7 +31,14 @@
 
 ## Collaboration
 
-- Reach out to your faculty mentor and sponsor for project kickoff
+**Meetings**
+- Reach out to your faculty mentor and sponsor for project kickoff.  
+  Meet the sponsor first, then the mentor.
+- Schedule (ideally weekly) recurring meetings. Find times that work for everyone.
+- If scheduling is hard some weeks (or during kickoff), go ahead and meet with a subset of attendees.  
+  Share meeting notes with the others.  
+- If you need to cancel a meeting, give at least 24hrs notice
+- Once availability is shared, get meetings scheduled quickly
 
 ## Deliverable Details
 
