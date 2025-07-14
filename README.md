@@ -19,7 +19,7 @@
 
 ## Participants
 
-- **Sponsor(s)**: This is the client. Provides project, relevant data, guidance
+- **Sponsor(s)**: This is the client. Provides project, relevant data, guidance.
 - **Faculty mentor(s)**: Assigned to each project, provides guidance (technical, professional)
 - **Students**: Form and execute plan, complete the hands-on work, and provide deliverables to sponsor
 - **Capstone Director**: Runs program end to end, provides oversight, can help with issues elevated above faculty mentor 
