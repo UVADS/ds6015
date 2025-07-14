@@ -94,7 +94,7 @@
 6 | Code Repository
   - All code to be finalized and clearly documented 
   - Check sponsor preference for sharing location (e.g., GitHub private repo, shared drive)
-  - For future use, students to ensure that sponsor can run the code
+  - Students to ensure that sponsor can run the code for future use 
 
 ## Promoting your Work
 
