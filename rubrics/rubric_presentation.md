@@ -18,5 +18,5 @@ Possible Points Total: 15
 
 Notes:  
 - Make sure figures have axes, labels, and titles that are easy to read
-- Remember the audience may have no background knowledge, so explain big picture
+- Explain big picture. Remember the audience may have no background knowledge.
 - Spend time on the project purpose; don't dwell on metrics
