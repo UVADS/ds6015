@@ -57,7 +57,7 @@
 
 ## Grading
 
-<img src="https://github.com/UVADS/ds6015/blob/main/img/report_card" width="200"/>
+<img src="https://github.com/UVADS/ds6015/blob/main/img/report_card.png" width="200"/>
 
 - Details in the Syllabus
 - Students on same project may receive different grade based on participation, effort
