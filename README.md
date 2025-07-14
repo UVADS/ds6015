@@ -15,6 +15,7 @@
 - [Grading](#grading)
 - [Deliverable Details](#deliverable-details)
 - [Promoting your Work](#promoting-your-work)
+- [Feedback](#feedback)
 
 ## Participants
 
@@ -30,7 +31,7 @@
 - This course repo contains materials to support capstone projects, including:
   - Information on best practices
   - Templates for Agenda, Progress Reports, Final Paper, Presentation. Be sure to use these.
-  - Rubrics
+  - Grading Rubrics
 
 ## Agreements
 - Some projects have agreements that require student signatures (e.g., NDA, IP agreement, data agreement)
@@ -67,28 +68,30 @@
 
 ## Deliverable Details
 
--  Progress Reports I & II
+1 |  Progress Report I. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_progress_report1_template.docx)  
+
+2 |  Progress Report II. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_progress_report2_template.docx)
+
    - Reports spaced evenly over the term (due dates set by faculty mentor)
-   - Use these templates for [Report I](https://github.com/UVADS/ds6015/blob/main/capstone_progress_report1_template.pdf) and [Report II](https://github.com/UVADS/ds6015/blob/main/capstone_progress_report2_template.pdf)
    - Email to sponsor, mentor, Program Director
 
-- Package containing all data products and research artifacts
+---
+
+3 | Package containing all data products and research artifacts
   - Shared with sponsors
   - Students should coordinate with sponsors to determine best method for delivery 
   - Students to provide walkthrough, clear documentation so sponsor can use the work after project completion
 
-- Final Report
+4 | Final Report. [[template]](https://github.com/UVADS/ds6015/blob/main/conference-template-letter.docx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_paper.md)
   - Email to sponsor, mentor, Program Director
-  - Use this [template](https://github.com/UVADS/ds6015/blob/main/conference-template-letter.docx) if you write the paper in *doc* format.
   - Length: 6 pages maximum, excluding figures/tables/Appendices
-  - See this [rubric](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_paper.md) for grading breakdown
+  - See template and rubric for details
 
-- Presentation
-  - Presented by all students at the Capstone Presentation event
-  - Please use the SDS-branded .ppt [template](https://github.com/UVADS/ds6015/blob/main/capstone_final_presentation_template.pptx)
-  - See this [rubric](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_presentation.md) for grading breakdown
+5 | Presentation. [[template]](https://github.com/UVADS/ds6015/blob/main/capstone_final_presentation_template.pptx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_presentation.md)
+  - Presented by all students at the Capstone Presentation event. Online MSDS event on Zoom, Residential MSDS event in person.
+  - See template and rubric for details
 
-- Code Repository
+6 | Code Repository
   - All code to be finalized and clearly documented 
   - Check sponsor preference for sharing location (e.g., GitHub private repo, shared drive)
   - For future use, students to ensure that sponsor can run the code
@@ -128,3 +131,8 @@
    **Example Papers**
    - https://ieeexplore.ieee.org/document/11021089
    - https://ieeexplore.ieee.org/document/7489317
+
+## Feedback
+- We want to hear from our capstone students, faculty mentors, and sponsors!
+- The Program Director checks in with all parties throughout Capstone
+- We send surveys at completion. Your thoughtful, timely feedback helps us improve Capstone.
