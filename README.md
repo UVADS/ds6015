@@ -48,7 +48,7 @@
   Share meeting notes with the others.  
 - If you need to cancel a meeting, give at least 24hrs notice
 - Once availability is shared, get meetings scheduled quickly
-- You can use this [template](https://github.com/UVADS/ds6015/blob/main/capstone_agenda_and_work_details_template.docx) for meeting agendas
+- You can use this [template](https://github.com/UVADS/ds6015/blob/main/templates/capstone_agenda_and_work_details_template.docx) for meeting agendas
 
 **Sharing Information**
 - Figure out best modes of communication with sponsor and mentor.  
