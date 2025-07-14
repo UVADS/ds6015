@@ -20,11 +20,17 @@
 ## Participants
 
 - **Sponsor(s)**: This is the client. Provides project, relevant data, guidance.
-- **Faculty mentor(s)**: Assigned to each project, provides guidance (technical, professional)
+- **Faculty mentor(s)**: Assigned to each project, provides technical and professional guidance
 - **Students**: Form and execute plan, complete the hands-on work, and provide deliverables to sponsor
-- **Capstone Director**: Runs program end to end, provides oversight, can help with issues elevated above faculty mentor 
-- **Impact Director**: Partners with the Capstone Director to support and cultivate sponsor relationships, measure and promote the program
-- **Capstone Manager**: Assists the Capstone Director with communications, plans capstone events
+- **Capstone Director**:
+    Runs program end to end, provides oversight, can help with issues elevated above faculty mentor.  
+    Contact: Adam Tashman (apt4c@virginia.edu)
+- **Impact Director**: 
+    Partners with the Capstone Director to support and cultivate sponsor relationships, measure and promote the program.  
+    Contact: Rebecca Schmidt (bzb2jy@virginia.edu)
+- **Capstone Manager**: 
+    Assists the Capstone Director with communications, plans capstone events.  
+    Contact: Kylen Baskerville (rke5bu@virginia.edu)
 
  ## Supporting Materials
 
