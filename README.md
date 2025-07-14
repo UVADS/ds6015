@@ -68,30 +68,33 @@
 
 ## Deliverable Details
 
-1 |  Progress Report I. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_progress_report1_template.docx)  
+1 | Faculty Mentor Briefing Report. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_faculty_mentor_briefing_template.docx)  
+  - Summarizes activity and learnings between project kickoff and start of Capstone term
+  - Emailed to faculty mentor and Capstone Director during week 1 of Capstone term
 
-2 |  Progress Report II. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_progress_report2_template.docx)
+2 |  Progress Report I. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_progress_report1_template.docx)  
 
+3 |  Progress Report II. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_progress_report2_template.docx)  
    - Reports spaced evenly over the term (due dates set by faculty mentor)
    - Email to sponsor, mentor, Capstone Director
 
 ---
 
-3 | Package containing all data products and research artifacts
+4 | Package containing all data products and research artifacts
   - Shared with sponsors
   - Students should coordinate with sponsors to determine best method for delivery 
   - Students to provide walkthrough, clear documentation so sponsor can use the work after project completion
 
-4 | Final Report. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/conference-template-letter.docx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_paper.md)
+5 | Final Report. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/conference-template-letter.docx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_paper.md)
   - Email to sponsor, mentor, Capstone Director
   - Length: 6 pages maximum, excluding figures/tables/Appendices
   - See template and rubric for details
 
-5 | Presentation. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_final_presentation_template.pptx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_presentation.md)
+6 | Presentation. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_final_presentation_template.pptx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_presentation.md)
   - Presented by all students at the Capstone Presentation event. Online MSDS event on Zoom, Residential MSDS event in person.
   - See template and rubric for details
 
-6 | Code Repository
+7 | Code Repository
   - All code to be finalized and clearly documented 
   - Check sponsor preference for sharing location (e.g., GitHub private repo, shared drive)
   - Students to ensure that sponsor can run the code for future use 
