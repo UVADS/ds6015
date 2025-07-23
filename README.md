@@ -2,7 +2,7 @@
 
 ## DS 6015 - Data Science Capstone Project
 
-#### Last updated: July 14, 2025
+#### Last updated: July 23, 2025
 
 ---
 
@@ -16,6 +16,7 @@
 - [Deliverable Details](#deliverable-details)
 - [Promoting your Work](#promoting-your-work)
 - [Feedback](#feedback)
+- [Helpful Links](#helpful-links)
 
 ## Participants
 
@@ -147,3 +148,7 @@
 - We want to hear from our capstone students, faculty mentors, and sponsors!
 - The Program Director checks in with all parties throughout Capstone
 - We send surveys at completion. Your thoughtful, timely feedback helps us improve Capstone.
+
+## Helpful Links
+- **Technical documentation**. Writing a good [README](https://eheidi.dev/tech-writing/20221212_documentation-101/) for your software project.
+- **Dashboards**. [Streamlit](https://streamlit.io/): A faster way to build and share data apps.
