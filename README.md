@@ -13,6 +13,7 @@
 - [Agreements](#agreements)
 - [Collaboration](#collaboration)
 - [Grading](#grading)
+- [Tentative Schedule](#tentative-schedule)
 - [Deliverable Details](#deliverable-details)
 - [Promoting your Work](#promoting-your-work)
 - [Feedback](#feedback)
