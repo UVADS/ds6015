@@ -73,6 +73,11 @@
   - In status reports, list your contributions
   - In final paper, list your contributions
 
+## Tentative Schedule
+
+<img src="https://github.com/UVADS/ds6015/blob/main/img/capstone_schedule_fa25_sp26.png" width="200"/>
+ 
+
 ## Deliverable Details
 
 1 | Faculty Mentor Briefing Report. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_faculty_mentor_briefing_template.docx)  
