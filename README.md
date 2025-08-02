@@ -2,7 +2,7 @@
 
 ## DS 6015 - Data Science Capstone Project
 
-#### Last updated: July 23, 2025
+#### Last updated: August 2, 2025
 
 ---
 
@@ -76,7 +76,7 @@
 
 ## Tentative Schedule
 
-<img src="https://github.com/UVADS/ds6015/blob/main/img/capstone_schedule_fa25_sp26.png" width="200"/>
+<img src="https://github.com/UVADS/ds6015/blob/main/img/capstone_schedule_fa25_sp26.png" width="800"/>
  
 
 ## Deliverable Details
