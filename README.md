@@ -68,7 +68,7 @@
 
 <img src="https://github.com/UVADS/ds6015/blob/main/img/report_card.png" width="200"/>
 
-- Details in the [Syllabus](https://github.com/UVADS/ds6015/blob/main/DS6015_syllabus_through_summer2025.docx)
+- Details in the [Syllabus](https://github.com/UVADS/ds6015/blob/main/DS6015_syllabus.docx)
 - Students on same project may receive different grade based on participation, effort
 - Faculty mentor does grading. Make your efforts clear to them:
   - In status reports, list your contributions
@@ -98,7 +98,7 @@
   - Students should coordinate with sponsors to determine best method for delivery 
   - Students to provide walkthrough, clear documentation so sponsor can use the work after project completion
 
-5 | Final Report. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/conference-template-letter.docx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_paper_through_summer2025.md)
+5 | Final Report. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/conference-template-letter.docx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_paper.md)
   - Email to sponsor, mentor, Capstone Director
   - Length: 6 pages maximum, excluding figures/tables/Appendices
   - See template and rubric for details
