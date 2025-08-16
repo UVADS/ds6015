@@ -2,7 +2,7 @@
 
 ## DS 6015 - Data Science Capstone Project
 
-#### Last updated: August 13, 2025
+#### Last updated: August 16, 2025
 
 ---
 
@@ -18,7 +18,8 @@
 - [Promoting your Work](#promoting-your-work)
 - [Feedback](#feedback)
 - [Helpful Links](#helpful-links)
-
+- [Program Changelog](#program-changelog)
+  
 ## Participants
 
 - **Sponsor(s)**: This is the client. Provides project, relevant data, guidance.
@@ -104,6 +105,7 @@
   - See template and rubric for details
 
 6 | Presentation. [[template]](https://github.com/UVADS/ds6015/blob/main/templates/capstone_final_presentation_template.pptx) [[rubric]](https://github.com/UVADS/ds6015/blob/main/rubrics/rubric_presentation.md)
+  - Email to sponsor, mentor, Capstone Director
   - Presented by all students at the Capstone Presentation event. Online MSDS event on Zoom, Residential MSDS event in person.
   - See template and rubric for details
 
@@ -158,3 +160,10 @@
 ## Helpful Links
 - **Technical documentation**. Writing a good [README](https://eheidi.dev/tech-writing/20221212_documentation-101/) for your software project.
 - **Dashboards**. [Streamlit](https://streamlit.io/): A faster way to build and share data apps.
+
+## Program Changelog
+
+| Date | Description |
+|---|---|
+| August 2025 | Team awards given to winning online MSDS students on Final Presentation Day |
+| July 2025 | Added gradeable item: Faculty Mentor Briefing, submitted week 1 of capstone |
