@@ -2,7 +2,7 @@
 
 ## DS 6015 - Data Science Capstone Project
 
-#### Last updated: August 16, 2025
+#### Last updated: September 6, 2025
 
 ---
 
@@ -41,6 +41,8 @@
   - Information on best practices
   - Templates for Agenda, Progress Reports, Final Paper, Presentation. Be sure to use these.
   - Grading Rubrics
+ 
+- My book [From Concepts to Code: Introduction to Data Science](https://www.amazon.com/dp/1032517980/?coliid=I2IGYOWDIF7LHD&colid=TYCB1RSCU43Y&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) provides coverage of the topics that come up in capstone and more generally in the data science field. It is optional but recommended. 
 
 ## Agreements
 - Some projects have agreements that require student signatures (e.g., NDA, IP agreement, data agreement)
