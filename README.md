@@ -80,8 +80,8 @@ Provides coverage of the topics that come up in capstone and more generally in t
 
 ## Tentative Schedule
 
-<img src="https://github.com/UVADS/ds6015/blob/main/img/capstone_schedule_fa25_sp26.png" width="800"/>
- 
+- Fall 2025-Spring 2026 [schedule](https://github.com/UVADS/ds6015/blob/main/img/capstone_schedule_fa25_sp26.png). (Online MSDS).  
+- Spring 2026-Summer 2026 [schedule](https://github.com/UVADS/ds6015/blob/main/img/capstone_schedule_sp26_su26.png) . (Online & Residential MSDS).
 
 ## Deliverable Details
 
