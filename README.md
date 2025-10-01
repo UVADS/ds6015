@@ -2,7 +2,7 @@
 
 ## DS 6015 - Data Science Capstone Project
 
-#### Last updated: September 6, 2025
+#### Last updated: October 1, 2025
 
 ---
 
@@ -126,34 +126,37 @@ Provides coverage of the topics that come up in capstone and more generally in t
 **Publication**
 - Not a requirement but encouraged! Check with your sponsor first.
 - Peer-reviewed journals may be preferable
-- A non-peer reviewed option is [arXiv](https://arxiv.org/).  
+- A non-peer reviewed option through the UVA Library is [LibreOpen](https://library.virginia.edu/libra/open/).  
+  Tagline: A robust scholarly repository that puts your UVA research center stage.  
+  Creates an immediate, persistent, worldwide-discoverable URL for your work (DOI – Digital Object Identifier).    
+- Another non-peer reviewed option is [arXiv](https://arxiv.org/).  
   arXiv is a curated research-sharing platform open to anyone.  
   Students can create an account, prepare the manuscript in their acceptable format, and [submit]((https://info.arxiv.org/help/submit/index.html)).   
 
-    **Authors**  
-   - Sponsors should be listed as authors if they wish to be included.
-   - Faculty mentors should be listed as authors if they wish to be included. If so, they are listed last. 
+**Authors**  
+- Sponsors should be listed as authors if they wish to be included.
+- Faculty mentors should be listed as authors if they wish to be included. If so, they are listed last. 
 
-   **Citing Work**
-   - As a rule, all written or presented material must be your own unless you explicitly cite the work of others
-   - You may not copy or use the work of anyone else without proper citation
-   
-   **Voice and Style**
-   - Do not use the first person. Use either second person plural (“we”) of passive voice where appropriate.
-   - Use direct and simple language.
+**Citing Work**
+- As a rule, all written or presented material must be your own unless you explicitly cite the work of others
+- You may not copy or use the work of anyone else without proper citation
+ 
+**Voice and Style**
+- Do not use the first person. Use either second person plural (“we”) of passive voice where appropriate.
+- Use direct and simple language.
 
-   **Code**
-   - Name all important code packages used
+**Code**
+- Name all important code packages used
 
-   **Figures and Tables**
-   - Use block diagrams to describe data flow (pipeline) when appropriate
-   - Show mathematical formulae for core methods
-   - Tables should be legible and within the page’s columns
-   - Figures should be labeled clearly, crisp, and readable
+**Figures and Tables**
+- Use block diagrams to describe data flow (pipeline) when appropriate
+- Show mathematical formulae for core methods
+- Tables should be legible and within the page’s columns
+- Figures should be labeled clearly, crisp, and readable
 
-   **Example Papers**
-   - https://ieeexplore.ieee.org/document/11021089
-   - https://ieeexplore.ieee.org/document/7489317
+**Example Papers**
+- https://ieeexplore.ieee.org/document/11021089
+- https://ieeexplore.ieee.org/document/7489317
 
 ## Feedback
 - We want to hear from our capstone students, faculty mentors, and sponsors!
