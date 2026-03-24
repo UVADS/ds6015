@@ -2,7 +2,7 @@
 
 ## DS 6015 - Data Science Capstone Project
 
-#### Last updated: October 1, 2025
+#### Last updated: March 23, 2026
 
 ---
 
@@ -38,10 +38,10 @@
 
  ## Matching Process
 
-- To match students to projects, students rank each project in order of preference.
-- We use this information for assignment, attempting to maximize preferences across students
-- Historically, students were generally assigned to one of their top 3 choices, although we can't make guarantees
-- A faculty mentor is assigned to each project taking into account their background and interests 
+- To help match students to projects, we ask students to rank each project in order of preference.
+- We use this information for assignment, attempting to maximize preferences across students.
+- Historically, students have generally been assigned to one of their top 3 choices, although we can't make guarantees.
+- A faculty mentor is assigned to each project taking into account their background and interests.
 
  ## Supporting Materials
 
