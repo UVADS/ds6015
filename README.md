@@ -9,6 +9,7 @@
 **PURPOSE:** Outline course components
 
 - [Participants](#participants)
+- [Matching Process](#matching-process)
 - [Supporting Materials](#supporting-materials)
 - [Agreements](#agreements)
 - [Collaboration](#collaboration)
@@ -34,6 +35,13 @@
 - **Capstone Manager**: 
     Assists the Capstone Director with communications, plans capstone events.  
     Contact: Kylen Baskerville (rke5bu@virginia.edu)
+
+ ## Matching Process
+
+- To match students to projects, students rank each project in order of preference.
+- We use this information for assignment, attempting to maximize preferences across students
+- Historically, students were generally assigned to one of their top 3 choices, although we can't make guarantees
+- A faculty mentor is assigned to each project taking into account their background and interests 
 
  ## Supporting Materials
 
@@ -171,5 +179,6 @@ Provides coverage of the topics that come up in capstone and more generally in t
 
 | Date | Description |
 |---|---|
+| March 2026 | Added information about the matching process |
 | August 2025 | Team awards given to winning online MSDS students on Final Presentation Day |
 | July 2025 | Added gradeable item: Faculty Mentor Briefing, submitted week 1 of capstone |
