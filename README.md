@@ -179,6 +179,5 @@ Provides coverage of the topics that come up in capstone and more generally in t
 
 | Date | Description |
 |---|---|
-| March 2026 | Added information about the matching process |
 | August 2025 | Team awards given to winning online MSDS students on Final Presentation Day |
 | July 2025 | Added gradeable item: Faculty Mentor Briefing, submitted week 1 of capstone |
