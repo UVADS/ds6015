@@ -17,7 +17,7 @@
 ## Event and Venue Info
 |   |   | 
 |---|---|
-| **Capstone Event Date**   |  Wednesday, April 30 | 
+| **Capstone Event Date**   |  Friday, August 7 | 
 | **Location**   |  Rotunda Dome Room, Charlottesville, VA 22903 | 
 | **Time**  |  9am - 4pm <br> Sponsors and faculty can drop in or stay for the full event |
 |**Food** | Lunch provided |
@@ -27,7 +27,7 @@
 
 ## Preparing for the Event
 
-- Presentation: Submit PPT deck on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2025/Capstone%20Presentation%20slides?csf=1&web=1&e=3NoBKK) by **Friday, April 25 at noon ET.**
+- Presentation: Submit PPT deck on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2025/Capstone%20Presentation%20slides?csf=1&web=1&e=3NoBKK) by **Monday, August 3 at noon ET.**
 
 
   Filenames: Save all files with time AND first few words of the title.  
@@ -70,7 +70,7 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 
 ## Presentation Schedule
 
-- Each team will have **10** mins for presentation and **3** mins for Q&A
+- Each team will have **10** mins for presentation and **2** mins for Q&A
 - Time limits will be strict to accommodate all teams
 - During Q&A, the next team will transition *on deck*
 
