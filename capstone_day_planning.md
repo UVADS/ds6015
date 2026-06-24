@@ -21,13 +21,13 @@
 | **Location**   |  Rotunda Dome Room, Charlottesville, VA 22903 | 
 | **Time**  |  9am - 4pm <br> Sponsors and faculty can drop in or stay for the full event |
 |**Food** | Lunch provided |
-| **Zoom**  | https://virginia.zoom.us/j/98092439181?pwd=b5pcYJ66Yx3Leoy8TNq5iKtX7LSxkb.1&from=addon |
+| **Zoom**  | [UPDATE] https://virginia.zoom.us/j/98092439181?pwd=b5pcYJ66Yx3Leoy8TNq5iKtX7LSxkb.1&from=addon |
 | **Dress code**  |  Business casual |
 
 
 ## Preparing for the Event
 
-- Presentation: Submit PPT deck on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2025/Capstone%20Presentation%20slides?csf=1&web=1&e=3NoBKK) by **Monday, August 3 at noon ET.**
+- Presentation: Submit PPT deck on Teams [UPDATE] [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2025/Capstone%20Presentation%20slides?csf=1&web=1&e=3NoBKK) by **Monday, August 3 at noon ET.**
 
 
   Filenames: Save all files with time AND first few words of the title.  
@@ -75,6 +75,8 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 - During Q&A, the next team will transition *on deck*
 
 - Class photo :camera:. Meet 9:15am at the lawn side of the Rotunda.
+
+[UPDATE]
 
 | Start Time | Title |
 |:---|:---|
