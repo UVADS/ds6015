@@ -70,7 +70,7 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 
 ## Presentation Schedule
 
-- Each team will have **10** mins for presentation and **2** mins for Q&A
+- Each team will have **10** mins for presentation and **3** mins for Q&A
 - Time limits will be strict to accommodate all teams
 - During Q&A, the next team will transition *on deck*
 
