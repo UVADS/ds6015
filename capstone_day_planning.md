@@ -27,7 +27,7 @@
 
 ## Preparing for the Event
 
-- Presentation: Submit PPT deck on Teams [UPDATE] [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2025/Capstone%20Presentation%20slides?csf=1&web=1&e=3NoBKK) by **Monday, August 3 at noon ET.**
+- Presentation: Submit PPT deck on Teams [UPDATE] [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2026/Capstone%20Presentation%20Slides?csf=1&web=1&e=NIJVnU) by **Monday, August 3 at noon ET.**
 
 
   Filenames: Save all files with time AND first few words of the title.  
