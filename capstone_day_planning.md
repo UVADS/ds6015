@@ -1,7 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: June 23, 2026
+#### Last updated: July 2, 2026
 
 #### Residential MSDS Program
 
@@ -21,13 +21,13 @@
 | **Location**   |  Rotunda Dome Room, Charlottesville, VA 22903 | 
 | **Time**  |  9am - 4pm <br> Sponsors and faculty can drop in or stay for the full event |
 |**Food** | Lunch provided |
-| **Zoom**  | https://virginia.zoom.us/j/98092439181?pwd=b5pcYJ66Yx3Leoy8TNq5iKtX7LSxkb.1&from=addon |
+| **Zoom**  | [UPDATE] https://virginia.zoom.us/j/98092439181?pwd=b5pcYJ66Yx3Leoy8TNq5iKtX7LSxkb.1&from=addon |
 | **Dress code**  |  Business casual |
 
 
 ## Preparing for the Event
 
-- Presentation: Submit PPT deck on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2025/Capstone%20Presentation%20slides?csf=1&web=1&e=3NoBKK) by **Monday, August 3 at noon ET.**
+- Presentation: Submit PPT deck on Teams [UPDATE] [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2026/Capstone%20Presentation%20Slides?csf=1&web=1&e=NIJVnU) by **Monday, August 3 at noon ET.**
 
 
   Filenames: Save all files with time AND first few words of the title.  
@@ -70,41 +70,47 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 
 ## Presentation Schedule
 
-- Each team will have **10** mins for presentation and **2** mins for Q&A
+- Each team will have **10** mins for presentation and **3** mins for Q&A
 - Time limits will be strict to accommodate all teams
 - During Q&A, the next team will transition *on deck*
 
-- Class photo :camera:. Meet 9:15am at the lawn side of the Rotunda.
+- Class photo :camera:. Meet 9:25am at the lawn side of the Rotunda.
+
+[UPDATE]
 
 | Start Time | Title |
 |:---|:---|
+| 9:25am |Pictures for MSDS Students |
 | 9:30am | Open for Seating |
-| 9:45am | Opening Remarks |
-| 9:50am | An ML Approach to Multi-Parameter Project Optimization at the ALMA Observatory |
-| 10:03am | Deloitte Anthropic LLM as a Judge 2025: Team 1  |
-| 10:16am | Deloitte Anthropic LLM as a Judge 2025: Team 2 |
-| 10:29am | Temporal Anomaly Detection in Multi-Spectral Satellite Imagery |
-| 10:42am | Leveraging Connected Vehicle Trajectory Data for Machine Learning-Based Anomaly Detection on Roadway Networks |
-| 10:55am | Dynamic Traffic Flow Optimization and Incident Prediction |
-| 11:08am | BREAK |
-| 11:18am | Using Educational Data to Explore Multimodal (Audio, Video, & Text) LLM Retrieval Techniques |
-| 11:31am | Workforce Data Analysis Project to Assess Internship and First Destination Outcomes Data of UVA Students |
-| 11:44am | Detection and Generation of Broadcast-Quality Sports Content |
-| 11:57am | Probabilistic Prediction of Location of Body from Abductions |
-| 12:10pm | Automate the Identification of Tattoos often used by Human Traffickers to Brand their Victims | 
-| 12:23pm | LUNCH :sandwich: | 
-| 1:25pm | Optimizing Storytelling, Improving Audience Retention, and Reducing Waste in the Entertainment Industry. | 
-| 1:38pm | Data Science Approaches to Differential Gene Expression in Glaucoma | 
-| 1:51pm | Multifactorial Analysis of Clinical Revenue and Practice Patterns in the UVA SOM to Support the Inaugural Clinical Compensation Plan and Related Funds Flow Needs. | 
-| 2:04pm | The Planetary Child Health & Enterics Observatory: Mapping the bugs that make kids sick in tropical regions of the globe. | 
-| 2:17pm | Understanding Health Event Distributions and Trends in Health Services Utilization in Students using Counseling & Psychological Services (CAPS) at UVA | 
-| 2:30pm | BREAK | 
-| 2:40pm | Automated Glaucoma Screening Using AI-Enhanced Ophthalmoscopy | 
-| 2:53pm | Global Data Science Fellowship: At the Intersection of Malnutrition and Tuberculosis in Tanzania | 
-| 3:06pm | Optimal Radiosurgical Dose Planning for Tumor Control | 
-| 3:19pm | Creating Computer Vision Software for Digitizing Surgical Flowsheets | 
-| 3:32pm | Break and submit awards nominations by 3:45pm | 
+| 9:40am | Opening Remarks |
+| 9:45am | Starter Upside Analysis for MLB Relievers |
+| 10:58am | The Planetary Child Health & Enterics Observatory (Plan-EO, pronounced "plan-ei-oh"): Mapping the bugs that make kids sick in tropical regions of the globe |
+| 10:11am | Analysis of Sailplane Flight Logs To Evaluate In-Flight Engine Start Procedures And Pilot’s Operational Behavior |
+| 10:24am | An End-to-End LLM-Based Pipeline for Patient Intake, Data Structuring, and Clinical Summarization |
+| 10:37am | Frank Hardy Sotheby’s International Comparative Market Analysis Automation |
+| 10:50am | UVA Institutional Research and Analytics: Database Normalization |
+| 11:03am | BREAK |
+| 11:10am | Application of Bayesian structural learning to create foundation models using multi-omics data from healthy adults |
+| 11:23am | Predict the trading volumes of the Indian Single Stock and Index Futures |
+| 11:36am | Know their names |
+| 11:49am | Monitoring Biodiversity through Fish Vocalizations |
+| 12:02pm | Developing an AI-Assisted System for Monitoring the Quality of ALMA Proposal Reviews| 
+| 12:15pm | LUNCH :sandwich: | 
+| 1:00pm | Optimizing artwork searchability: The Fralin museum database improvement project | 
+| 1:13pm | Developing a Global Asset Allocation System | 
+| 1:26pm | Forecasting Professional Baseball Player Development Using Baseline Athletic and Performance Data | 
+| 1:39pm | Developing a Robust Machine Learning System to Combat Deepfake Biometric Fraud | 
+| 1:52pm | Developing Operational Dashboard for Virginia Works | 
+| 2:05pm | Integrating and Modeling Athlete Monitoring Data to Support Performance Decision-Making | 
+| 2:18pm | BREAK | 
+| 2:27pm | Financial Institution Insights To Improve Cross-sell and Remove Churn | 
+| 2:40pm | Tailing storage facility anomaly detection and failure risk assessment | 
+| 2:53pm | Integrating Deep Learning with Multi-Factor Models: A CNN-Enhanced Fama-French Analysis of International Equity Funds | 
+| 3:06pm | ChatCLT: A RAG system for clinical laboratory test question answering | 
+| 3:19pm | MetaHeart: integrated single-cell heart atlas to predict gene perturbations and cell states | 
+| 3:32pm | Break and submit awards nominations by 3:40pm | 
 | 3:45pm | Awards and Closing | 
+
 
 
 
