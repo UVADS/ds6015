@@ -1,7 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: July 2, 2026
+#### Last updated: July 8, 2026
 
 #### Residential MSDS Program
 
@@ -21,7 +21,7 @@
 | **Location**   |  Rotunda Dome Room, Charlottesville, VA 22903 | 
 | **Time**  |  9am - 4pm <br> Sponsors and faculty can drop in or stay for the full event |
 |**Food** | Lunch provided |
-| **Zoom**  | [UPDATE] https://virginia.zoom.us/j/98092439181?pwd=b5pcYJ66Yx3Leoy8TNq5iKtX7LSxkb.1&from=addon |
+| **Zoom**  | https://virginia.zoom.us/j/96569676629?pwd=ryxM6YQnXE3O3bkN4NeUaDeaPWZWQi.1&from=addon |
 | **Dress code**  |  Business casual |
 
 
