@@ -2,7 +2,7 @@
 
 ## DS 6015 - Data Science Capstone Project
 
-#### Last updated: March 23, 2026
+#### Last updated: July 23, 2026
 
 ---
 
@@ -55,6 +55,10 @@ Provides coverage of the topics that come up in capstone and more generally in t
 
 ## Agreements
 - Some projects have agreements that require student signatures (e.g., NDA, IP agreement, data agreement)
+
+## Project Expenses
+It is greatly encouraged to use free resources to complete capstone (e.g., open source models, no-cost storage options). Students are responsible for obtaining approval before incurring project expenses. Neither the sponsor nor university is responsible for reimbursing expenses that were not authorized in advance.
+
 
 ## Collaboration
 
