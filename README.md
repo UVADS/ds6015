@@ -12,6 +12,7 @@
 - [Matching Process](#matching-process)
 - [Supporting Materials](#supporting-materials)
 - [Agreements](#agreements)
+- [Project Expenses](#project-expenses)
 - [Collaboration](#collaboration)
 - [Grading](#grading)
 - [Tentative Schedule](#tentative-schedule)
