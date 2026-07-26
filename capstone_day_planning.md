@@ -82,7 +82,7 @@ Note that the criteria specified are not hard and fast — they are prompts to g
 | 9:30am | Open for Seating |
 | 9:40am | Opening Remarks |
 | 9:45am | Starter Upside Analysis for MLB Relievers |
-| 10:58am | The Planetary Child Health & Enterics Observatory (Plan-EO, pronounced "plan-ei-oh"): Mapping the bugs that make kids sick in tropical regions of the globe |
+| 9:58am | The Planetary Child Health & Enterics Observatory (Plan-EO, pronounced "plan-ei-oh"): Mapping the bugs that make kids sick in tropical regions of the globe |
 | 10:11am | Analysis of Sailplane Flight Logs To Evaluate In-Flight Engine Start Procedures And Pilot’s Operational Behavior |
 | 10:24am | An End-to-End LLM-Based Pipeline for Patient Intake, Data Structuring, and Clinical Summarization |
 | 10:37am | Frank Hardy Sotheby’s International Comparative Market Analysis Automation |
