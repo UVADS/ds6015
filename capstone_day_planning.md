@@ -28,6 +28,8 @@
 ## Preparing for the Event
 
 - Presentation: Submit PPT deck on Teams [here](https://myuva.sharepoint.com/:f:/r/sites/CapstoneDayMay2023/Shared%20Documents/General/2026/Capstone%20Presentation%20Slides?csf=1&web=1&e=NIJVnU) by **Monday, August 3 at noon ET.**
+  - The format needs to be PowerPoint (not PDF)
+  - If there are video elements, they should be embedded and not linked (so that they can be self contained)
 
 
   Filenames: Save all files with time AND first few words of the title.  
