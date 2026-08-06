@@ -1,7 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: July 8, 2026
+#### Last updated: August 5, 2026
 
 #### Residential MSDS Program
 
@@ -32,11 +32,11 @@
   - If there are audio/video elements, they should be embedded so that external linking is not necessary
 
 
-  Filenames: Save all files with time AND first few words of the title.  
+  Filenames: Save all files with time (24hr clock) AND first few words of the title.  
   Examples: 
 
-  ```1036am_deep_learning_based```  
-  ```1049am_develop_an_enterprise```
+  ```1036_deep_learning_based```  
+  ```1349_develop_an_enterprise```
 
   Files cannot be edited after the submission deadline.
 
