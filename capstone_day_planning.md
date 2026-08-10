@@ -1,7 +1,7 @@
 
 <img src="https://github.com/UVADS/ds6013/blob/main/capstone_day.png" width="300"/>
 
-#### Last updated: August 5, 2026
+#### Last updated: August 10, 2026
 
 #### Residential MSDS Program
 
@@ -11,6 +11,7 @@
 
 - [Event and Venue Info](#event-and-venue-info)
 - [Preparing for the Event](#preparing-for-the-event)
+- [Attendance](#attendance)
 - [Awards](#awards)
 - [Presentation Schedule](#presentation-schedule)
 
@@ -23,7 +24,6 @@
 |**Food** | Lunch provided |
 | **Zoom**  | https://virginia.zoom.us/j/96569676629?pwd=ryxM6YQnXE3O3bkN4NeUaDeaPWZWQi.1&from=addon |
 | **Dress code**  |  Business casual |
-
 
 ## Preparing for the Event
 
@@ -39,6 +39,11 @@
   ```1349_develop_an_enterprise```
 
   Files cannot be edited after the submission deadline.
+
+## Attendance
+
+- We ask that students stay for the full event to support their cohort
+- For privacy reasons, we do not record the capstone event 
 
 ## Awards
 
