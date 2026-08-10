@@ -47,15 +47,15 @@
 
 ## Awards
 
-Awards will be offered to capstone teams in four broad areas. 
+- Awards will be offered to capstone teams in four broad areas. 
 
-Awards will be offered on the basis of student and audience voting at the end of the session. (Members of the audience may vote if they have participated in the entire event). 
+- Awards will be offered on the basis of student and audience voting at the end of the session. (Members of the audience may vote if they have participated in the entire event). 
 
-Students must be in person at the event to receive the physical award
+- Students must be in person at the event to receive the physical award
 
-During the day, you are asked to take notes on each presentation relative to the categories and criteria described below. 
+- During the day, you are asked to take notes on each presentation relative to the categories and criteria described below. 
 
-The categories and criteria correspond to the values and goals of data science in the broad sense to which you have been introduced in your classes and cohort experience. 
+- The categories and criteria correspond to the values and goals of data science in the broad sense to which you have been introduced in your classes and cohort experience. 
 
 The four awards are: 
 
