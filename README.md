@@ -94,7 +94,7 @@ It is greatly encouraged to use free resources to complete capstone (e.g., open 
 ## Tentative Schedule
 
 - Fall 2026-Spring 2027 [schedule](https://github.com/UVADS/ds6015/blob/main/img/capstone_schedule_fa26_sp27.png). (Online MSDS).  
-- Spring 2026-Summer 2026 [schedule](https://github.com/UVADS/ds6015/blob/main/img/capstone_schedule_sp27_su27.png) . (Online & Residential MSDS).
+- Spring 2027-Summer 2027 [schedule](https://github.com/UVADS/ds6015/blob/main/img/capstone_schedule_sp27_su27.png) . (Online & Residential MSDS).
 
 ## Deliverable Details
 
