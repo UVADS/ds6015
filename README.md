@@ -2,7 +2,7 @@
 
 ## DS 6015 - Data Science Capstone Project
 
-#### Last updated: July 23, 2026
+#### Last updated: October 5, 2026
 
 ---
 
